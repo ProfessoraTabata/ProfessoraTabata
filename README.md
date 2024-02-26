@@ -13,6 +13,8 @@
 <br>
 <p align="center"><em>Sou professora apaixonada por tecnologia, educação e por mudar a vida de pessoas atráves da programação.</em></p>
 
-<h1 align="center">Entre em contato através do e-mail:</h1>
-<a href="mailto:tabata.macedo1897@gmail.com" align="center">tabata.macedo1897@gmail.com</a>
+<div align="center">
+  <h1 align="center">Entre em contato através do e-mail:</h1>
+  <a href="mailto:tabata.macedo1897@gmail.com" align="center">tabata.macedo1897@gmail.com</a>
+</div>
 
